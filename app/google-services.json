@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881257736512",
+    "firebase_url": "https://junkart-214016.firebaseio.com",
+    "project_id": "junkart-214016",
+    "storage_bucket": "junkart-214016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881257736512:android:fda7ed6260032199",
+        "android_client_info": {
+          "package_name": "com.example.admin.junkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881257736512-tigpaq0ns6n25tul8bc5e8jknoe6nbsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.junkart",
+            "certificate_hash": "8b7c0efcbcc33cd763b9e940e648d7d88aae1ca6"
+          }
+        },
+        {
+          "client_id": "881257736512-bddej2oim98rq9p7thidm23t5bloarqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nxsLRH2JB5W-X6IcGyLpjPGI-Q-pUlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881257736512-bddej2oim98rq9p7thidm23t5bloarqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

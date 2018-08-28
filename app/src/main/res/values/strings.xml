@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Junkart</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="verification_code">verification code</string>
+    <string name="verification_codes">Verification Code</string>
+    <string name="errors_occurred">errors occurred</string>
+    <string name="a_message_will_occurr_here">A message will occurr here</string>
+</resources>
